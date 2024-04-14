@@ -1,0 +1,4 @@
+*******************************************
+Funcionalidad de botones (Inputs)
+*******************************************
+Funcionalidad de la pantalla de resultado (Output)
